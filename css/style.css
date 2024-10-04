@@ -1,0 +1,40 @@
+header {
+    width: 37.5em;
+    margin: 2em auto;
+  }
+
+  .logo{
+
+  }
+  
+  .laura, .javery, .ampersand {
+    font-size: 5em;
+    text-align: center;
+  }
+  
+  .laura {
+    position: absolute;
+    top: 120px;
+    left: 225px;
+  }
+  
+  .javery {
+    position: absolute;
+    top: 185px;
+    left: 335px;  
+  }
+  
+  .ampersand {
+    font-style: italic; 
+    position: absolute;
+    top: 160px;
+    left: 270px;
+  }
+  
+  .jclogo{
+    position: fixed;
+    height: 57%;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
